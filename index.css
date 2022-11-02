@@ -1,0 +1,112 @@
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background-color: #1c1c1c;
+  position: absolute;
+}
+
+hr {
+  margin-right: 50px;
+  border-style: none;
+  border-top-style: solid;
+  border-color: gray;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+#text {
+  position: absolute;
+  height: 700px;
+  width: 800px;
+  padding-top: 50px;
+  padding-left: 40px;
+  font-size: 23px;
+  background-color: #1f2937;
+  text-align: left;
+  margin-top: 100px;
+  margin-left: 30px;
+}
+
+#keyGenerator {
+  margin-top: 70px;
+  width: 220px;
+  height: 50px;
+  border-radius: 20px;
+  font-size: 16px;
+  font-weight: 700;
+  color: rgb(25, 71, 11);
+  background-color: #4adf86;
+  border-style: none;
+}
+
+#keyGenerator:hover {
+  margin-top: 70px;
+  width: 220px;
+  height: 50px;
+  border-radius: 20px;
+  font-size: 16px;
+  font-weight: 700;
+  color: #10b981;
+  background-color: #ecfdf5;
+  border-style: solid;
+  border-color: #10b981;
+  box-shadow: 0px 0px 15px #10b981;
+}
+
+#buttonsDiv {
+  margin-top: 50px;
+}
+
+#kButton1 {
+  height: 40px;
+  width: 160px;
+  margin-right: 50px;
+  border-radius: 10px;
+  background-color: #273549;
+  border-style: none;
+  font-size: 15px;
+  font-weight: 700;
+  color: #ecfdf5;
+}
+
+#kButton1:hover {
+  height: 40px;
+  width: 160px;
+  margin-right: 50px;
+  border-radius: 10px;
+  background-color: #273549;
+  box-shadow: 0px 0px 25px rgb(54, 40, 133);
+  border-style: solid;
+  border-color: rgb(54, 40, 133);
+  font-size: 15px;
+  font-weight: 700;
+  color: #10b981;
+}
+
+#kButton2 {
+  height: 40px;
+  width: 160px;
+  margin-right: 50px;
+  border-radius: 10px;
+  background-color: #273549;
+  border-style: none;
+  font-size: 15px;
+  font-weight: 700;
+  color: #ecfdf5;
+}
+
+#kButton2:hover {
+  height: 40px;
+  width: 160px;
+  margin-right: 50px;
+  border-radius: 10px;
+  background-color: #273549;
+  box-shadow: 0px 0px 25px rgb(54, 40, 133);
+  border-style: solid;
+  border-color: rgb(54, 40, 133);
+  font-size: 15px;
+  font-weight: 700;
+  color: #10b981;
+}
+
